@@ -1,14 +1,14 @@
 # Hi there, I'm Mudita Jain! 👋
 
-I am a passionate **Computer Science Engineer** dedicated to building impactful projects that blend creativity with efficiency. My journey involves transforming ideas into reality through code and collaboration.
+I am a passionate **Computer Science Engineer** dedicated to building impactful projects that blend creativity with efficiency. I believe in the power of technology to inspire change and proudly represent women in STEM through my work and initiatives.
 
 ## 🚀 About Me
 
-- 🎓 **Education:** Pursuing **B.Tech in Computer Science** at Dronacharya College of Engineering, Haryana (2023-2027).  
+- 🎓 **Education:** Pursuing **B.Tech in Computer Science** at Dronacharya College of Engineering, Haryana (2023–2027)  
 - 🏆 **Achievements:** Active contributor to open-source projects and hackathons.  
-- 🌱 **Learning:** AI/ML, MERN Stack, and Data Structures & Algorithms.  
 - 💬 **Ask me about:** Web Development, JavaScript frameworks, and Project Management.  
 - 📫 **Contact:** [LinkedIn](https://www.linkedin.com/in/beingmudita/) | [Email](mailto:mudita21jain@gmail.com)  
+- 🧠 **LeetCode:** [leetcode.com/u/being_mudita](https://leetcode.com/u/being_mudita/)
 
 ---
 
@@ -19,6 +19,7 @@ I am a passionate **Computer Science Engineer** dedicated to building impactful 
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 
 ### **Web Development:**
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
@@ -36,34 +37,27 @@ I am a passionate **Computer Science Engineer** dedicated to building impactful 
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white)
 
+### **Tools & Platforms:**
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-%23F37626.svg?style=flat&logo=jupyter&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black)
+
 ---
 
 ## 📈 GitHub Stats
 
-![Mudita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BeingMudita&show_icons=true&theme=radical)  
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BeingMudita&theme=radical)  
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=BeingMudita&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BeingMudita&show_icons=true&theme=radical" alt="Mudita's GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BeingMudita&theme=radical" alt="Mudita's GitHub Streak" width="48%"/>
+</p>
 
 ---
 
 ## 🗂️ Notable Projects
 
-### [UBER](https://github.com/BeingMudita/UBER)
-- **Description:** A JavaScript project simulating the core functionalities of the Uber ride-sharing platform.
-- **Technologies Used:** JavaScript, Node.js, Express.
-- **Contribution:** Developed backend services focusing on ride matching algorithms and real-time tracking features.
-
-### [WanderLust](https://github.com/BeingMudita/WanderLust)
-- **Description:** A travel application providing personalized travel recommendations.
-- **Technologies Used:** React, Redux, JavaScript.
-- **Contribution:** Implemented Redux for state management and integrated APIs for travel data.
-
-### [Disaster Management](https://github.com/BeingMudita/Disaster-management)
-- **Description:** A solution for real-time disaster alerts and resource management.
-- **Technologies Used:** Node.js, MongoDB, JavaScript.
-- **Contribution:** Designed database schema and developed RESTful APIs.
+### [Jobsy](https://github.com/BeingMudita/Jobsy)
+- **Description:** A job board platform for real-time job search and employer-posted listings.
+- **Technologies Used:** MERN Stack, TailwindCSS.
+- **Contribution:** Led full-stack development and user authentication.
 
 ### [GULLAK](https://github.com/BeingMudita/GULLAK)
 - **Description:** A personal finance management tool.
@@ -75,12 +69,21 @@ I am a passionate **Computer Science Engineer** dedicated to building impactful 
 - **Technologies Used:** Python, Django, SQLite.
 - **Contribution:** Developed backend logic and managed database operations.
 
+### [Disaster Management](https://github.com/BeingMudita/Disaster-management)
+- **Description:** A solution for real-time disaster alerts and resource management.
+- **Technologies Used:** Node.js, MongoDB, JavaScript.
+- **Contribution:** Designed database schema and developed RESTful APIs.
+
+### [UBER](https://github.com/BeingMudita/UBER)
+- **Description:** A JavaScript project simulating the core functionalities of the Uber ride-sharing platform.
+- **Technologies Used:** JavaScript, Node.js, Express.
+- **Contribution:** Developed backend services focusing on ride matching algorithms and real-time tracking features.
+
 ---
 
 ## 🤝 Let's Connect
 
-I'm always open to collaborating on innovative projects. Feel free to reach out through [LinkedIn](https://linkedin.com/in/beingmudita) or [email](mailto:mudita21jain@gmail.com).
+I'm always open to collaborating on innovative projects and showcasing the power of women in tech. Feel free to reach out through [LinkedIn](https://linkedin.com/in/beingmudita) or [Email](mailto:mudita21jain@gmail.com).
 
 ---
-
 
