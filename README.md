@@ -1,7 +1,7 @@
 <h1 align="center">Mudita Jain 👩‍💻</h1>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/BeingMudita/banner-image-url.png" alt="Mudita Jain Banner"/>
+  <img src="https://raw.githubusercontent.com/BeingMudita/BeingMudita/main/assets/banner.png" alt="Mudita Jain Banner" style="max-width: 100%; border-radius: 10px;"/>
 </p>
 
 I am a passionate **Computer Science Engineer** dedicated to building impactful projects that blend creativity with efficiency. I believe in the power of technology to inspire change and proudly represent women in STEM through my work and initiatives.
@@ -47,16 +47,20 @@ I am a passionate **Computer Science Engineer** dedicated to building impactful 
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BeingMudita&show_icons=true&theme=radical&count_private=true&custom_title=Mudita's%20GitHub%20Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=BeingMudita&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=BeingMudita&show_icons=true&theme=react&count_private=true&custom_title=Mudita's%20GitHub%20Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=BeingMudita&theme=react" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeingMudita&layout=compact&theme=radical" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeingMudita&layout=compact&theme=react" width="40%"/>
   <img src="https://komarev.com/ghpvc/?username=BeingMudita&style=flat-square&color=brightgreen" alt="profile views"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BeingMudita&theme=vue" width="95%"/>
 </p>
 
 ---
