@@ -1,4 +1,8 @@
-# Hi there, I'm Mudita Jain! 👋
+<h1 align="center">Mudita Jain 👩‍💻</h1>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/BeingMudita/banner-image-url.png" alt="Mudita Jain Banner"/>
+</p>
 
 I am a passionate **Computer Science Engineer** dedicated to building impactful projects that blend creativity with efficiency. I believe in the power of technology to inspire change and proudly represent women in STEM through my work and initiatives.
 
@@ -46,8 +50,13 @@ I am a passionate **Computer Science Engineer** dedicated to building impactful 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BeingMudita&show_icons=true&theme=radical" alt="Mudita's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BeingMudita&theme=radical" alt="Mudita's GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=BeingMudita&show_icons=true&theme=radical&count_private=true&custom_title=Mudita's%20GitHub%20Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=BeingMudita&theme=radical" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeingMudita&layout=compact&theme=radical" width="40%"/>
+  <img src="https://komarev.com/ghpvc/?username=BeingMudita&style=flat-square&color=brightgreen" alt="profile views"/>
 </p>
 
 ---
@@ -66,8 +75,8 @@ I am a passionate **Computer Science Engineer** dedicated to building impactful 
 
 ### [SwaadSaga](https://github.com/BeingMudita/SwaadSaga)
 - **Description:** A Python-based culinary application offering recipes and meal planning.
-- **Technologies Used:** Python, Django, SQLite.
-- **Contribution:** Developed backend logic and managed database operations.
+- **Technologies Used:** Python, Streamlit, Pandas, SQLite.
+- **Contribution:** Built food recommendation logic and designed Streamlit frontend.
 
 ### [Disaster Management](https://github.com/BeingMudita/Disaster-management)
 - **Description:** A solution for real-time disaster alerts and resource management.
