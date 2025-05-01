@@ -1,7 +1,7 @@
 <h1 align="center">Mudita Jain 👩‍💻</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BeingMudita/BeingMudita/main/banner.jpg" alt="Mudita Jain" style="max-width:100%; border-radius:10px;"/>
+  <img src="https://raw.githubusercontent.com/BeingMudita/BeingMudita/main/Banner.jpg" alt="Mudita Jain" style="max-width:100%; border-radius:10px;"/>
 </p>
 
 I am a passionate **Computer Science Engineer** dedicated to building impactful projects that blend creativity with efficiency. I believe in the power of technology to inspire change and proudly represent women in STEM through my work and initiatives.
