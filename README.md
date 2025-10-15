@@ -45,6 +45,12 @@ I am a passionate **Computer Science Engineer** dedicated to building impactful 
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-%23F37626.svg?style=flat&logo=jupyter&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black)
 
+### **CyberSecurity:**
+### 🌐 TryHackMe Profile
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/mudita21jain.png)
+[Visit my TryHackMe profile](https://tryhackme.com/p/mudita21jain)
+
+
 ---
 
 ## 📊 GitHub Stats
