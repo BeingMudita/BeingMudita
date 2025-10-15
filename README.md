@@ -47,8 +47,11 @@ I am a passionate **Computer Science Engineer** dedicated to building impactful 
 
 ### **CyberSecurity:**
 ### 🌐 TryHackMe Profile
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/mudita21jain.png)
-[Visit my TryHackMe profile](https://tryhackme.com/p/mudita21jain)
+<p align="center">
+  <a href="https://tryhackme.com/p/mudita21jain" target="_blank">
+    <img src="https://tryhackme.com/badge/mudita21jain" alt="TryHackMe Badge" style="max-width:100%;"/>
+  </a>
+</p>
 
 
 ---
