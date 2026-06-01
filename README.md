@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mudita Jain</h1>
 
-<h3 align="center">
-Full Stack Developer • SWE Intern @ PETRIC • Building AI-Powered Products
-</h3>
-
 <p align="center">
 📍 Delhi NCR, India &nbsp; • &nbsp;
 🎓 B.Tech CSE @ DCE &nbsp; • &nbsp;
@@ -16,16 +12,14 @@ Full Stack Developer • SWE Intern @ PETRIC • Building AI-Powered Products
 
 ---
 
-## ~/about
+## 🚀 About Me
 
-```bash
-> Name       : Mudita Jain
-> Role       : Full Stack Developer
-> Currently  : SWE Intern @ PETRIC
-> Building   : BudgetBasket
-> Learning   : System Design & AI Integrations
-> Location   : Delhi NCR, India
-```
+- 🎓 B.Tech Computer Science @ Dronacharya College of Engineering (2023–2027)
+- 💼 Software Engineering Intern at PETRIC
+- 🛒 Currently building BudgetBasket
+- 🌱 Exploring System Design, FastAPI, AI Integrations & React Native
+- 🏆 Top 10 Team — SheBuilds Hackathon 2025
+- ⚡ Passionate about building products that solve real-world problems
 ---
 
 ## 💼 Experience
