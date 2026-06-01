@@ -1,101 +1,171 @@
-<h1 align="center">Mudita Jain 👩‍💻</h1>
+# <h1 align="center">Hi 👋, I'm Mudita Jain</h1>
+
+<h3 align="center">
+Full Stack Developer • Computer Science Engineer • Building Real-World Products
+</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BeingMudita/BeingMudita/main/Banner.jpg" alt="Mudita Jain" style="max-width:100%; border-radius:10px;"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;MERN+Stack+Engineer;Building+AI+Powered+Applications;Open+Source+Contributor;Always+Learning+Something+New" />
 </p>
 
-I am a passionate **Computer Science Engineer** dedicated to building impactful projects that blend creativity with efficiency. I believe in the power of technology to inspire change and proudly represent women in STEM through my work and initiatives.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BeingMudita&label=Profile+Views&color=blue&style=flat" />
+</p>
+
+---
 
 ## 🚀 About Me
 
-- 🎓 **Education:** Pursuing **B.Tech in Computer Science** at Dronacharya College of Engineering, Haryana (2023–2027)  
-- 🏆 **Achievements:** Active contributor to open-source projects and hackathons.  
-- 💬 **Ask me about:** Web Development, JavaScript frameworks, and Project Management.  
-- 📫 **Contact:** [LinkedIn](https://www.linkedin.com/in/beingmudita/) | [Email](mailto:mudita21jain@gmail.com)  
-- 🧠 **LeetCode:** [leetcode.com/u/being_mudita](https://leetcode.com/u/being_mudita/)
+🎓 B.Tech Computer Science Student (2023–2027)
+🏫 Dronacharya College of Engineering, Gurugram University
+
+💻 Passionate about building scalable web applications and AI-powered solutions.
+
+🌱 Currently exploring:
+
+* Advanced MERN Stack
+* System Design
+* FastAPI
+* AI Integrations
+* React Native
+
+🏆 Top 10 Team – SheBuilds Hackathon 2025
+
+📍 Delhi NCR, India
 
 ---
 
-## 🛠️ Skills & Technologies
+## 💼 Current Work
 
-### **Programming Languages:**
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+### PETRIC – Quick Commerce Platform
 
-### **Web Development:**
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404D59.svg?style=flat&logo=express&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
+Working as a Software Engineering Intern at PETRIC.
 
-### **Database & Version Control:**
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white)
+* Building scalable MERN applications
+* API integrations
+* Product & Brand Management Systems
+* Performance Optimization
+* Real-world eCommerce workflows
 
-### **Tools & Platforms:**
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-%23F37626.svg?style=flat&logo=jupyter&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black)
+---
 
-### **CyberSecurity:**
-### 🌐 TryHackMe Profile
+## 🛒 Currently Building
+
+### BudgetBasket
+
+An intelligent grocery comparison platform that helps users:
+
+* Compare prices across quick-commerce platforms
+* Find the cheapest basket automatically
+* Track grocery spending
+* Make smarter purchasing decisions
+
+**Tech Stack**
+React • FastAPI • Python • APIs • Data Analytics
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge\&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge\&logo=typescript)
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge\&logo=python)
+![Java](https://img.shields.io/badge/Java-black?style=for-the-badge\&logo=openjdk)
+![C++](https://img.shields.io/badge/C++-black?style=for-the-badge\&logo=cplusplus)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-black?style=for-the-badge\&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge\&logo=nextdotjs)
+![Flutter](https://img.shields.io/badge/Flutter-black?style=for-the-badge\&logo=flutter)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge\&logo=tailwindcss)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge\&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express-black?style=for-the-badge\&logo=express)
+![FastAPI](https://img.shields.io/badge/FastAPI-black?style=for-the-badge\&logo=fastapi)
+
+### Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge\&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge\&logo=postgresql)
+![Firebase](https://img.shields.io/badge/Firebase-black?style=for-the-badge\&logo=firebase)
+![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge\&logo=mysql)
+
+---
+
+## 🌟 Featured Projects
+
+### 📚 Chapter & Verse
+
+AI-powered book discovery platform that recommends books based on user interests and reading patterns.
+
+**Stack:** React Native, FastAPI, PostgreSQL, Qdrant, AI Embeddings
+
+---
+
+### 🏠 Nivasa – Roommate Compatibility AI
+
+An AI-based platform that helps users find compatible roommates through behavioral analysis and surveys.
+
+**Stack:** React, TypeScript, FastAPI, Firebase
+
+---
+
+### 🚨 SwaAangan
+
+Smart women safety network with SOS alerts, AI chatbot, Safe Walk, and threat detection.
+
+**Stack:** Flutter Web, FastAPI, Firebase, Gemini AI
+
+---
+
+### 🩺 Eshan
+
+Community health monitoring platform for outbreak prediction and public health visualization.
+
+**Stack:** React, FastAPI, Python, TypeScript
+
+---
+
+### 🛒 BudgetBasket
+
+Price comparison engine for quick-commerce grocery shopping.
+
+**Status:** Currently Building 🚀
+
+---
+
+## 📈 GitHub Stats
+
 <p align="center">
-  <a href="https://tryhackme.com/p/mudita21jain" target="_blank">
-    <img src="https://tryhackme.com/badge/mudita21jain" alt="TryHackMe Badge" style="max-width:100%;"/>
-  </a>
+<img src="https://github-readme-stats.vercel.app/api?username=BeingMudita&show_icons=true" height="170"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BeingMudita" height="170"/>
 </p>
-
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BeingMudita&theme=vue" width="95%"/>
-</p>
-
----
-
-## 🗂️ Notable Projects
-
-### [Jobsy](https://github.com/BeingMudita/Jobsy)
-- **Description:** A job board platform for real-time job search and employer-posted listings.
-- **Technologies Used:** MERN Stack, TailwindCSS.
-- **Contribution:** Led full-stack development and user authentication.
-
-### [GULLAK](https://github.com/BeingMudita/GULLAK)
-- **Description:** A personal finance management tool.
-- **Technologies Used:** React, Firebase.
-- **Contribution:** Integrated Firebase for real-time data sync and authentication.
-
-### [SwaadSaga](https://github.com/BeingMudita/SwaadSaga)
-- **Description:** A Python-based culinary application offering recipes and meal planning.
-- **Technologies Used:** Python, Streamlit, Pandas, SQLite.
-- **Contribution:** Built food recommendation logic and designed Streamlit frontend.
-
-### [Disaster Management](https://github.com/BeingMudita/Disaster-management)
-- **Description:** A solution for real-time disaster alerts and resource management.
-- **Technologies Used:** Node.js, MongoDB, JavaScript.
-- **Contribution:** Designed database schema and developed RESTful APIs.
-
-### [UBER](https://github.com/BeingMudita/UBER)
-- **Description:** A JavaScript project simulating the core functionalities of the Uber ride-sharing platform.
-- **Technologies Used:** JavaScript, Node.js, Express.
-- **Contribution:** Developed backend services focusing on ride matching algorithms and real-time tracking features.
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm always open to collaborating on innovative projects and showcasing the power of women in tech. Feel free to reach out through [LinkedIn](https://linkedin.com/in/beingmudita) or [Email](mailto:mudita21jain@gmail.com).
+📧 [mudita21jain@gmail.com](mailto:mudita21jain@gmail.com)
+
+🔗 LinkedIn: https://linkedin.com/in/beingmudita
+
+💻 GitHub: https://github.com/BeingMudita
+
+🧠 LeetCode: https://leetcode.com/u/being_mudita/
 
 ---
 
+⭐ Building products, solving problems, and learning every day.
+
+
+![Snake animation](https://github.com/BeingMudita/BeingMudita/blob/output/github-contribution-grid-snake.svg)
+
+## 📊 Activity Graph
+
+[![Mudita's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BeingMudita)]
