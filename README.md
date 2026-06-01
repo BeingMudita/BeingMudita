@@ -1,33 +1,31 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Mudita Jain</h1>
 
-```
-╔══════════════════════════════════════════════════════╗
-║  > hello, world · I'm Mudita Jain                   ║
-║  > full-stack dev · AI-powered products              ║
-║  > B.Tech CSE @ DCE · Delhi NCR, India 🇮🇳           ║
-╚══════════════════════════════════════════════════════╝
-```
+<h3 align="center">
+Full Stack Developer • SWE Intern @ PETRIC • Building AI-Powered Products
+</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=600&lines=SWE+Intern+%40+PETRIC;Building+BudgetBasket+%F0%9F%9B%92;MERN+%2B+FastAPI+Engineer;Exploring+System+Design+%26+AI+Integrations;Top+10+%E2%80%94+SheBuilds+Hackathon+2025+%F0%9F%8F%86)](https://git.io/typing-svg)
+<p align="center">
+📍 Delhi NCR, India &nbsp; • &nbsp;
+🎓 B.Tech CSE @ DCE &nbsp; • &nbsp;
+🛒 Building BudgetBasket
+</p>
 
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=650&lines=SWE+Intern+%40+PETRIC;Building+BudgetBasket+%F0%9F%9B%92;MERN+%2B+FastAPI+Engineer;Exploring+System+Design+%26+AI+Integrations;Top+10+%E2%80%94+SheBuilds+Hackathon+2025+%F0%9F%8F%86" />
+</p>
 
 ---
 
-## `about.ts`
+## ~/about
 
-```typescript
-const mudita = {
-  degree   : "B.Tech Computer Science @ Dronacharya College of Engineering (2023–27)",
-  location : "Delhi NCR, India",
-  currently: ["SWE Intern @ PETRIC", "Building BudgetBasket 🛒"],
-  exploring: ["System Design", "FastAPI", "AI Integrations", "React Native"],
-  fun_fact  : "Top 10 — SheBuilds Hackathon 2025 🏆"
-};
-
-// currently shipping something new every week
+```bash
+> Name       : Mudita Jain
+> Role       : Full Stack Developer
+> Currently  : SWE Intern @ PETRIC
+> Building   : BudgetBasket
+> Learning   : System Design & AI Integrations
+> Location   : Delhi NCR, India
 ```
-
 ---
 
 ## 💼 Experience
